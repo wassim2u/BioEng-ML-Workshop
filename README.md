@@ -7,3 +7,5 @@ https://docs.google.com/presentation/d/1pFhOoGq9GupcThJtMN0ZSPd2vpi2O1K78c_kSymJ
 
 The Google colab notebook: 
 https://colab.research.google.com/drive/19jHkBqd6g5MY762r_J33I6d2xeRjNHhe?usp=sharing
+
+_Note_: If you found this taster to machine learning useful, please star this repository to help me gauge how many people found it really helpful! Thanks, and happy learning :) 
