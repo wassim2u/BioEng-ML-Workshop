@@ -1,6 +1,6 @@
 # BioEng-ML-Workshop
 
-The workshop is about a small taster session on machine learning and its applications, delivered for the BioEngineering society. We also try to explore and train a Logistic Regression model on the popular Titanic dataset from Kaggle using the Google Colab notebook.
+The workshop is about a small taster session on machine learning and its applications, delivered for the BioEngineering society at the University of Edinburgh 2022/2023. We also try to explore and train a Logistic Regression model on the popular Titanic dataset from Kaggle using the Google Colab notebook.
 
 Please find the slides down below, along with additional resources to explore on your own time to learn more in-depth:
 https://docs.google.com/presentation/d/1pFhOoGq9GupcThJtMN0ZSPd2vpi2O1K78c_kSymJuUU/edit#slide=id.g213c8ddc3e8_1_0 
